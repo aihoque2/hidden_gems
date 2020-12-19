@@ -1,5 +1,5 @@
 # hidden_gems
-What determines the price of a diamond? Utlizing a kaggle dataset that has the price of a diamond along with some other attributes, I go on a quest where I learn about new machine learning models and figure out the attributes that best determine the price of a diamond.
+What determines the price of a diamond? Utlizing my knowledge of R and a kaggle dataset that has the price of a diamond along with some other attributes, I learn about new machine learning models and figure out the attributes that best determine the price of a diamond.
 
 
 ## Files:
